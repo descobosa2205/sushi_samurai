@@ -36,14 +36,11 @@ El proyecto está diseñado siguiendo un UML de clases y una arquitectura modula
 ## 🕹️ Controles
 - **PC:**  
   - Movimiento del ratón para “cortar” con la katana (Blade).  
-  - (TODO) Añadir teclas si existen: pausar, reiniciar, volver al menú, etc.
-- **Móvil (si aplica):**  
-  - (TODO) Especificar gesto táctil / multi-touch si está implementado.
+  - Key Space para pausar la partida.
 
 ---
 
 ## 🧩 Estructura (orientativa)
-> Nota: ajusta esta sección a tu árbol real de carpetas si difiere.
 
 - `Assets/`
   - `Scripts/`
@@ -67,8 +64,8 @@ El proyecto está diseñado siguiendo un UML de clases y una arquitectura modula
 
 ## 🚀 Instalación y ejecución
 ### Requisitos
-- **Unity** (TODO: indicar versión exacta, por ejemplo 2022.3 LTS)
-- (Opcional) Git LFS si usáis assets pesados
+- **Unity** 6000.2.7f2
+> Nota: Estamos desarrollando el trabajo desde ordenadores Mac. Esto puede crear dependencias o dificultades a la hora de la ejecución.
 
 ### Pasos
 1. Clona el repositorio:
