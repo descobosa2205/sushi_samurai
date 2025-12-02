@@ -64,7 +64,7 @@ El proyecto está diseñado siguiendo un UML de clases y una arquitectura modula
 
 ## 🚀 Instalación y ejecución
 ### Requisitos
-- **Unity** 6000.2.7f2
+- **Unity** 6000.2.6f2
 > Nota: Estamos desarrollando el trabajo desde ordenadores Mac. Esto puede crear dependencias o dificultades a la hora de la ejecución.
 
 ### Pasos
