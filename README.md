@@ -27,5 +27,4 @@ En comparación a la entrega de diciembre, la versión del ninja enemigo actual 
 
 Antes de comenzar, asegúrate de tener instalado:
 * Unity 6000.2.6f2
-* Visual Studio 2022
 > Nota: Estamos desarrollando el trabajo desde ordenadores Mac. Esto puede crear dependencias o dificultades a la hora de la ejecución.
