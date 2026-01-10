@@ -29,9 +29,3 @@ Antes de comenzar, asegúrate de tener instalado:
 * Unity 6000.2.6f2
 * Visual Studio 2022
 > Nota: Estamos desarrollando el trabajo desde ordenadores Mac. Esto puede crear dependencias o dificultades a la hora de la ejecución.
-
-## 🔧 Instalación
-
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/usuario/nombre-del-proyecto.git](https://github.com/usuario/nombre-del-proyecto.git)
